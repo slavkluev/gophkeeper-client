@@ -1,6 +1,7 @@
 {
   "accounts_target": ":44045",
   "app_id": 1,
+  "cards_target": ":44047",
   "sso_target": ":44044",
   "texts_target": ":44046",
   "timeout": 5

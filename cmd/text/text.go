@@ -7,8 +7,7 @@ import (
 )
 
 var textCmd = &cobra.Command{
-	Use:   "text",
-	Short: "A brief description of your command",
+	Use: "text",
 }
 
 func init() {

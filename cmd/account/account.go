@@ -7,8 +7,7 @@ import (
 )
 
 var accountCmd = &cobra.Command{
-	Use:   "account",
-	Short: "A brief description of your command",
+	Use: "account",
 }
 
 func init() {
